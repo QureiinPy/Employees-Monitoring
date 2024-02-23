@@ -1,0 +1,9 @@
+﻿@page "/Employee/{employeeId:int}"
+@model web.app.Pages.EmployeePageModel
+@{
+    ViewData["Title"] = "Employee";
+    
+}
+
+
+<h2>@Model.employeeName @Model.employeeSurname</h2>

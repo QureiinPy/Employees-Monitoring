@@ -1,0 +1,28 @@
+﻿@page "/AddEmployee"
+@* @model web.app.Pages.ServiceEmployeePages.AddEmployeeModel *@
+@model Employee
+@using Model
+@{
+    ViewData["Title"] = "Add new employee";
+}
+
+<form>
+    <div class="" style="">
+        <label>Имя</label>
+        <input class="d-block" type="text" style="margin: 5px 0 10px; width: 500px; height: 40px; font-family: 'Cascadia Mono'; font-weight: 700;" placeholder="Имя сотрудника"
+               asp-for="Name"/>
+        <span asp-validation-for="Name"></span>
+
+        <label>Фамилия</label>
+        <input class="d-block" type="text" style="margin: 5px 0 10px; width: 500px; height: 40px; font-family: 'Cascadia Mono'; font-weight: 700" placeholder="Фамилия сотрудника"
+               asp-for="Surname" />
+        <span asp-validation-for="Surname"></span>
+
+        <label>Должность</label>
+        <input class="d-block" type="text" style="margin: 5px 0 10px; width: 500px; height: 40px; font-family: 'Cascadia Mono'; font-weight: 700" placeholder="Должность сотрудника"
+               asp-for="Position" />
+        <span asp-validation-for="Position"></span>
+
+        <a class="btn btn-success align-self-center" style="align-items:end; align-content:end; font-style: normal; font-family: 'Cascadia Mono'; color: white;" onclick="">Save</a>
+    </div>
+</form>

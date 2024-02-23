@@ -1,0 +1,79 @@
+E:\Проекты C#\web.app\bin\Debug\net8.0\appsettings.Development.json
+E:\Проекты C#\web.app\bin\Debug\net8.0\appsettings.json
+E:\Проекты C#\web.app\bin\Debug\net8.0\web.app.staticwebassets.runtime.json
+E:\Проекты C#\web.app\bin\Debug\net8.0\web.app.exe
+E:\Проекты C#\web.app\bin\Debug\net8.0\web.app.deps.json
+E:\Проекты C#\web.app\bin\Debug\net8.0\web.app.runtimeconfig.json
+E:\Проекты C#\web.app\bin\Debug\net8.0\web.app.dll
+E:\Проекты C#\web.app\bin\Debug\net8.0\web.app.pdb
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.AssemblyInfoInputs.cache
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.AssemblyInfo.cs
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.csproj.CoreCompileInputs.cache
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.MvcApplicationPartsAssemblyInfo.cache
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.RazorAssemblyInfo.cache
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.RazorAssemblyInfo.cs
+E:\Проекты C#\web.app\obj\Debug\net8.0\staticwebassets.build.json
+E:\Проекты C#\web.app\obj\Debug\net8.0\staticwebassets.development.json
+E:\Проекты C#\web.app\obj\Debug\net8.0\staticwebassets\msbuild.web.app.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Проекты C#\web.app\obj\Debug\net8.0\staticwebassets\msbuild.build.web.app.props
+E:\Проекты C#\web.app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web.app.props
+E:\Проекты C#\web.app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web.app.props
+E:\Проекты C#\web.app\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Проекты C#\web.app\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Проекты C#\web.app\obj\Debug\net8.0\scopedcss\bundle\web.app.styles.css
+E:\Проекты C#\web.app\obj\Debug\net8.0\scopedcss\projectbundle\web.app.bundle.scp.css
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.dll
+E:\Проекты C#\web.app\obj\Debug\net8.0\refint\web.app.dll
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.pdb
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.genruntimeconfig.cache
+E:\Проекты C#\web.app\obj\Debug\net8.0\ref\web.app.dll
+E:\Проекты C#\web.app\bin\Debug\net8.0\NLog.dll
+E:\Проекты C#\web.app\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+E:\Проекты C#\web.app\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.csproj.AssemblyReference.cache
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.csproj.CopyComplete
+E:\Проекты C#\web.app\bin\Debug\net8.0\nlog.config
+E:\Проекты C#\web.app\obj\Debug\net8.0\web.app.sourcelink.json
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\nlog.config
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\appsettings.Development.json
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\appsettings.json
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\web.app.staticwebassets.runtime.json
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\web.app.exe
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\web.app.deps.json
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\web.app.runtimeconfig.json
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\web.app.dll
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\web.app.pdb
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\NLog.dll
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.csproj.AssemblyReference.cache
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.AssemblyInfoInputs.cache
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.AssemblyInfo.cs
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.csproj.CoreCompileInputs.cache
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.MvcApplicationPartsAssemblyInfo.cache
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.RazorAssemblyInfo.cache
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.RazorAssemblyInfo.cs
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.sourcelink.json
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\staticwebassets.build.json
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\staticwebassets.development.json
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\staticwebassets\msbuild.web.app.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\staticwebassets\msbuild.build.web.app.props
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web.app.props
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web.app.props
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\scopedcss\bundle\web.app.styles.css
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\scopedcss\projectbundle\web.app.bundle.scp.css
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.csproj.CopyComplete
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.dll
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\refint\web.app.dll
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.pdb
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\web.app.genruntimeconfig.cache
+E:\Проекты C#\Company App\web.app\obj\Debug\net8.0\ref\web.app.dll
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\Npgsql.dll
+E:\Проекты C#\Company App\web.app\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

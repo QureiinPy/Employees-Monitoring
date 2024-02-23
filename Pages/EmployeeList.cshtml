@@ -1,0 +1,42 @@
+﻿@page
+@model web.app.Pages.EmployeeListModel
+@using DB
+@using web.app.Pages.ServiceEmployeePages
+@{
+    ViewData["Title"] = "Employee List";
+
+    var employees = @Model.data;
+}
+
+
+
+ 
+<div class="">
+    <h3 class="h3">Компания</h3>
+    <p class="text-end">Количество сотрудников: @employees.Count</p>
+    <div class="container">
+        <ul class=" list-unstyled list-group">
+            
+            @foreach (var item in employees)
+            {
+                <li 
+                    
+                    class="list-group-item border d-flex justify-content-between"
+                    style="margin: 10px 0; background-color: #bde0ff; border-radius: 6px;">
+                    <div>
+                        <a class="text-decoration-none text-dark" asp-area="" asp-page="/EmployeePage" asp-route-employeeId="@item.Id">
+                            <p class="p-0 m-0">@item.Name</p>
+                            <p class="p-0 m-0">@item.Surname</p>
+                        </a>
+                    </div>
+                    <p class="m-0">@item.Position</p>
+                </li>
+            }
+        </ul>
+        <a class="btn btn-success"
+           style="align-items:end;
+              text-align: right;
+           font-style: normal; font-family: 'Cascadia Mono';
+           color: white;" asp-area="" asp-page="/ServiceEmployeePages/AddEmployee">Add</a>
+    </div>
+</div>
